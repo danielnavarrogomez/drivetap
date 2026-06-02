@@ -66,4 +66,4 @@ This is an early prototype. Endpoint credentials are currently stored in app pre
 
 ## License
 
-No license has been selected yet. Add one before publishing if you want other people to use, modify, or distribute the code.
+DriveTap is released under the MIT License. See [LICENSE](LICENSE).
