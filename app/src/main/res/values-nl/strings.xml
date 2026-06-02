@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Configureer tot 10 acties. Ze verschijnen in Android Auto als veilige autoacties.</string>
+    <string name="add_tap">Actie toevoegen</string><string name="edit_tap">Actie bewerken</string><string name="delete_tap">Actie verwijderen?</string><string name="no_taps">Nog geen acties.</string>
+    <string name="test">Testen</string><string name="edit">Bewerken</string><string name="delete">Verwijderen</string><string name="cancel">Annuleren</string><string name="save">Opslaan</string>
+    <string name="method">Methode</string><string name="android_auto_icon">Android Auto-pictogram</string><string name="name">Naam</string><string name="url">URL</string><string name="username">Gebruiker</string><string name="password">Wachtwoord</string>
+    <string name="credentials_as_params">Gebruiker/wachtwoord verzenden als user/pass-variabelen</string><string name="params_hint">Variabelen, één VAR=WAARDE per regel</string><string name="color_hint">Hexkleur, bijv. #0B6EFD</string><string name="url_error">URL moet beginnen met http:// of https://</string><string name="calling">%1$s aanroepen</string>
+    <string name="icon_bolt">Bliksem</string><string name="icon_garage">Garage</string><string name="icon_door">Deur</string><string name="icon_lock">Slot</string><string name="icon_light">Licht</string><string name="icon_bell">Bel</string><string name="icon_web">Web</string><string name="icon_home">Thuis</string>
+    <string name="button_color">Knopkleur</string><string name="github_repository">GitHub-repository</string>
+</resources>

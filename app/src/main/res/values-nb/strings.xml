@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Konfigurer opptil 10 handlinger. De vises i Android Auto som bilsikre handlinger.</string>
+    <string name="add_tap">Legg til</string><string name="edit_tap">Rediger handling</string><string name="delete_tap">Slette handling?</string><string name="no_taps">Ingen handlinger ennå.</string>
+    <string name="test">Test</string><string name="edit">Rediger</string><string name="delete">Slett</string><string name="cancel">Avbryt</string><string name="save">Lagre</string>
+    <string name="method">Metode</string><string name="android_auto_icon">Android Auto-ikon</string><string name="name">Navn</string><string name="url">URL</string><string name="username">Bruker</string><string name="password">Passord</string>
+    <string name="credentials_as_params">Send bruker/passord som user/pass-variabler</string><string name="params_hint">Variabler, én VAR=VERDI per linje</string><string name="color_hint">Heksfarge, f.eks. #0B6EFD</string><string name="url_error">URL må starte med http:// eller https://</string><string name="calling">Kaller %1$s</string>
+    <string name="icon_bolt">Lyn</string><string name="icon_garage">Garasje</string><string name="icon_door">Dør</string><string name="icon_lock">Lås</string><string name="icon_light">Lys</string><string name="icon_bell">Bjelle</string><string name="icon_web">Web</string><string name="icon_home">Hjem</string>
+    <string name="button_color">Knappfarge</string><string name="github_repository">GitHub-repository</string>
+</resources>

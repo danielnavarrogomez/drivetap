@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Seadista kuni 10 toimingut. Need kuvatakse Android Autos ohutute toimingutena.</string>
+    <string name="add_tap">Lisa toiming</string><string name="edit_tap">Muuda toimingut</string><string name="delete_tap">Kustutada toiming?</string><string name="no_taps">Toiminguid pole veel.</string>
+    <string name="test">Testi</string><string name="edit">Muuda</string><string name="delete">Kustuta</string><string name="cancel">Tühista</string><string name="save">Salvesta</string>
+    <string name="method">Meetod</string><string name="android_auto_icon">Android Auto ikoon</string><string name="name">Nimi</string><string name="url">URL</string><string name="username">Kasutaja</string><string name="password">Parool</string>
+    <string name="credentials_as_params">Saada kasutaja/parool user/pass muutujatena</string><string name="params_hint">Muutujad, üks VAR=VÄÄRTUS rea kohta</string><string name="color_hint">Hex-värv, nt #0B6EFD</string><string name="url_error">URL peab algama http:// või https://</string><string name="calling">Kutsun %1$s</string>
+    <string name="icon_bolt">Välk</string><string name="icon_garage">Garaaž</string><string name="icon_door">Uks</string><string name="icon_lock">Lukk</string><string name="icon_light">Valgus</string><string name="icon_bell">Kell</string><string name="icon_web">Veeb</string><string name="icon_home">Kodu</string>
+    <string name="button_color">Nupu värv</string><string name="github_repository">GitHubi hoidla</string>
+</resources>

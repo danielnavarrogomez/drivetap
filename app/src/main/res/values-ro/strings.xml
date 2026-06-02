@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Configurați până la 10 acțiuni. Apar în Android Auto ca acțiuni sigure.</string>
+    <string name="add_tap">Adaugă acțiune</string><string name="edit_tap">Editează acțiunea</string><string name="delete_tap">Ștergeți acțiunea?</string><string name="no_taps">Nu există acțiuni încă.</string>
+    <string name="test">Test</string><string name="edit">Editează</string><string name="delete">Șterge</string><string name="cancel">Anulează</string><string name="save">Salvează</string>
+    <string name="method">Metodă</string><string name="android_auto_icon">Pictogramă Android Auto</string><string name="name">Nume</string><string name="url">URL</string><string name="username">Utilizator</string><string name="password">Parolă</string>
+    <string name="credentials_as_params">Trimite utilizator/parolă ca variabile user/pass</string><string name="params_hint">Variabile, câte una VAR=VALOARE pe linie</string><string name="color_hint">Culoare hex, ex. #0B6EFD</string><string name="url_error">URL-ul trebuie să înceapă cu http:// sau https://</string><string name="calling">Se apelează %1$s</string>
+    <string name="icon_bolt">Fulger</string><string name="icon_garage">Garaj</string><string name="icon_door">Ușă</string><string name="icon_lock">Lacăt</string><string name="icon_light">Lumină</string><string name="icon_bell">Sonerie</string><string name="icon_web">Web</string><string name="icon_home">Acasă</string>
+    <string name="button_color">Culoarea butonului</string><string name="github_repository">Depozit GitHub</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="subtitle">Configure até 10 ações. Elas aparecem no Android Auto como ações seguras.</string>
+    <string name="add_tap">Adicionar ação</string>
+    <string name="edit_tap">Editar ação</string>
+    <string name="delete_tap">Eliminar ação?</string>
+    <string name="no_taps">Ainda não há ações.</string>
+    <string name="test">Testar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="method">Método</string>
+    <string name="android_auto_icon">Ícone do Android Auto</string>
+    <string name="name">Nome</string>
+    <string name="url">URL</string>
+    <string name="username">Utilizador</string>
+    <string name="password">Palavra-passe</string>
+    <string name="credentials_as_params">Enviar utilizador/palavra-passe como variáveis user/pass</string>
+    <string name="params_hint">Variáveis, uma VAR=VALOR por linha</string>
+    <string name="color_hint">Cor hexadecimal, ex. #0B6EFD</string>
+    <string name="url_error">O URL deve começar com http:// ou https://</string>
+    <string name="calling">A chamar %1$s</string>
+    <string name="icon_bolt">Raio</string>
+    <string name="icon_garage">Garagem</string>
+    <string name="icon_door">Porta</string>
+    <string name="icon_lock">Fechadura</string>
+    <string name="icon_light">Luz</string>
+    <string name="icon_bell">Campainha</string>
+    <string name="icon_web">Web</string>
+    <string name="icon_home">Casa</string>
+    <string name="button_color">Cor do botão</string>
+    <string name="github_repository">Repositório GitHub</string>
+</resources>

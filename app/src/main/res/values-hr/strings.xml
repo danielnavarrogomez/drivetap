@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Konfigurirajte do 10 radnji. Prikazuju se u Android Autu kao sigurne radnje.</string>
+    <string name="add_tap">Dodaj radnju</string><string name="edit_tap">Uredi radnju</string><string name="delete_tap">Izbrisati radnju?</string><string name="no_taps">Još nema radnji.</string>
+    <string name="test">Test</string><string name="edit">Uredi</string><string name="delete">Izbriši</string><string name="cancel">Odustani</string><string name="save">Spremi</string>
+    <string name="method">Metoda</string><string name="android_auto_icon">Ikona Android Auto</string><string name="name">Naziv</string><string name="url">URL</string><string name="username">Korisnik</string><string name="password">Lozinka</string>
+    <string name="credentials_as_params">Pošalji korisnika/lozinku kao varijable user/pass</string><string name="params_hint">Varijable, jedna VAR=VRIJEDNOST po retku</string><string name="color_hint">Hex boja, npr. #0B6EFD</string><string name="url_error">URL mora početi s http:// ili https://</string><string name="calling">Pozivanje %1$s</string>
+    <string name="icon_bolt">Munja</string><string name="icon_garage">Garaža</string><string name="icon_door">Vrata</string><string name="icon_lock">Brava</string><string name="icon_light">Svjetlo</string><string name="icon_bell">Zvono</string><string name="icon_web">Web</string><string name="icon_home">Dom</string>
+    <string name="button_color">Boja gumba</string><string name="github_repository">GitHub repozitorij</string>
+</resources>

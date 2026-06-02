@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Конфигурирайте до 10 действия. Те се показват в Android Auto като безопасни действия.</string>
+    <string name="add_tap">Добавяне</string><string name="edit_tap">Редактиране</string><string name="delete_tap">Изтриване на действието?</string><string name="no_taps">Все още няма действия.</string>
+    <string name="test">Тест</string><string name="edit">Редакция</string><string name="delete">Изтрий</string><string name="cancel">Отказ</string><string name="save">Запази</string>
+    <string name="method">Метод</string><string name="android_auto_icon">Икона Android Auto</string><string name="name">Име</string><string name="url">URL</string><string name="username">Потребител</string><string name="password">Парола</string>
+    <string name="credentials_as_params">Изпращане на потребител/парола като променливи user/pass</string><string name="params_hint">Променливи, по една VAR=СТОЙНОСТ на ред</string><string name="color_hint">Hex цвят, напр. #0B6EFD</string><string name="url_error">URL трябва да започва с http:// или https://</string><string name="calling">Извикване на %1$s</string>
+    <string name="icon_bolt">Светкавица</string><string name="icon_garage">Гараж</string><string name="icon_door">Врата</string><string name="icon_lock">Ключалка</string><string name="icon_light">Светлина</string><string name="icon_bell">Звънец</string><string name="icon_web">Уеб</string><string name="icon_home">Дом</string>
+    <string name="button_color">Цвят на бутона</string><string name="github_repository">GitHub хранилище</string>
+</resources>

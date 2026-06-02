@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DriveTap</string>
+    <string name="subtitle">Configure up to 10 taps. They appear in Android Auto as car-safe actions.</string>
+    <string name="add_tap">Add tap</string>
+    <string name="edit_tap">Edit tap</string>
+    <string name="delete_tap">Delete tap?</string>
+    <string name="no_taps">No taps yet.</string>
+    <string name="test">Test</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="method">Method</string>
+    <string name="android_auto_icon">Android Auto icon</string>
+    <string name="button_color">Button color</string>
+    <string name="github_repository">GitHub repository</string>
+    <string name="repo_url" translatable="false">https://github.com/danielnavarrogomez/drivetap</string>
+    <string name="name">Name</string>
+    <string name="url">URL</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="credentials_as_params">Send username/password as user/pass variables</string>
+    <string name="params_hint">Variables, one VAR=VALUE per line</string>
+    <string name="color_hint">Color hex, e.g. #0B6EFD</string>
+    <string name="url_error">URL must start with http:// or https://</string>
+    <string name="calling">Calling %1$s</string>
+    <string name="icon_bolt">Bolt</string>
+    <string name="icon_garage">Garage</string>
+    <string name="icon_door">Door</string>
+    <string name="icon_lock">Lock</string>
+    <string name="icon_light">Light</string>
+    <string name="icon_bell">Bell</string>
+    <string name="icon_web">Web</string>
+    <string name="icon_home">Home</string>
+</resources>

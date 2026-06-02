@@ -1,0 +1,25 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "com.example.drivetap"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.example.drivetap"
+        minSdk 26
+        targetSdk 35
+        versionCode 6
+        versionName "0.1.5"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation "androidx.car.app:app:1.7.0"
+}

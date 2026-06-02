@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Sukonfigūruokite iki 10 veiksmų. Jie rodomi Android Auto kaip saugūs veiksmai.</string>
+    <string name="add_tap">Pridėti veiksmą</string><string name="edit_tap">Redaguoti veiksmą</string><string name="delete_tap">Ištrinti veiksmą?</string><string name="no_taps">Veiksmų dar nėra.</string>
+    <string name="test">Testas</string><string name="edit">Redaguoti</string><string name="delete">Ištrinti</string><string name="cancel">Atšaukti</string><string name="save">Išsaugoti</string>
+    <string name="method">Metodas</string><string name="android_auto_icon">Android Auto piktograma</string><string name="name">Pavadinimas</string><string name="url">URL</string><string name="username">Naudotojas</string><string name="password">Slaptažodis</string>
+    <string name="credentials_as_params">Siųsti naudotoją/slaptažodį kaip user/pass kintamuosius</string><string name="params_hint">Kintamieji, po vieną VAR=REIKŠMĖ eilutėje</string><string name="color_hint">Hex spalva, pvz. #0B6EFD</string><string name="url_error">URL turi prasidėti http:// arba https://</string><string name="calling">Kviečiama %1$s</string>
+    <string name="icon_bolt">Žaibas</string><string name="icon_garage">Garažas</string><string name="icon_door">Durys</string><string name="icon_lock">Užraktas</string><string name="icon_light">Šviesa</string><string name="icon_bell">Skambutis</string><string name="icon_web">Žiniatinklis</string><string name="icon_home">Namai</string>
+    <string name="button_color">Mygtuko spalva</string><string name="github_repository">GitHub saugykla</string>
+</resources>

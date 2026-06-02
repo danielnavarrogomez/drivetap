@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Konfigurējiet līdz 10 darbībām. Tās parādās Android Auto kā drošas darbības.</string>
+    <string name="add_tap">Pievienot</string><string name="edit_tap">Rediģēt darbību</string><string name="delete_tap">Dzēst darbību?</string><string name="no_taps">Vēl nav darbību.</string>
+    <string name="test">Tests</string><string name="edit">Rediģēt</string><string name="delete">Dzēst</string><string name="cancel">Atcelt</string><string name="save">Saglabāt</string>
+    <string name="method">Metode</string><string name="android_auto_icon">Android Auto ikona</string><string name="name">Nosaukums</string><string name="url">URL</string><string name="username">Lietotājs</string><string name="password">Parole</string>
+    <string name="credentials_as_params">Sūtīt lietotāju/paroli kā user/pass mainīgos</string><string name="params_hint">Mainīgie, viens VAR=VĒRTĪBA rindā</string><string name="color_hint">Hex krāsa, piem. #0B6EFD</string><string name="url_error">URL jāsākas ar http:// vai https://</string><string name="calling">Izsauc %1$s</string>
+    <string name="icon_bolt">Zibens</string><string name="icon_garage">Garāža</string><string name="icon_door">Durvis</string><string name="icon_lock">Slēdzene</string><string name="icon_light">Gaisma</string><string name="icon_bell">Zvans</string><string name="icon_web">Tīmeklis</string><string name="icon_home">Mājas</string>
+    <string name="button_color">Pogas krāsa</string><string name="github_repository">GitHub repozitorijs</string>
+</resources>

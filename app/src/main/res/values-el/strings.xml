@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Ρυθμίστε έως 10 ενέργειες. Εμφανίζονται στο Android Auto ως ασφαλείς ενέργειες.</string>
+    <string name="add_tap">Προσθήκη</string><string name="edit_tap">Επεξεργασία ενέργειας</string><string name="delete_tap">Διαγραφή ενέργειας;</string><string name="no_taps">Δεν υπάρχουν ενέργειες ακόμη.</string>
+    <string name="test">Δοκιμή</string><string name="edit">Επεξεργασία</string><string name="delete">Διαγραφή</string><string name="cancel">Άκυρο</string><string name="save">Αποθήκευση</string>
+    <string name="method">Μέθοδος</string><string name="android_auto_icon">Εικονίδιο Android Auto</string><string name="name">Όνομα</string><string name="url">URL</string><string name="username">Χρήστης</string><string name="password">Κωδικός</string>
+    <string name="credentials_as_params">Αποστολή χρήστη/κωδικού ως μεταβλητές user/pass</string><string name="params_hint">Μεταβλητές, μία VAR=ΤΙΜΗ ανά γραμμή</string><string name="color_hint">Hex χρώμα, π.χ. #0B6EFD</string><string name="url_error">Το URL πρέπει να ξεκινά με http:// ή https://</string><string name="calling">Κλήση %1$s</string>
+    <string name="icon_bolt">Αστραπή</string><string name="icon_garage">Γκαράζ</string><string name="icon_door">Πόρτα</string><string name="icon_lock">Κλειδαριά</string><string name="icon_light">Φως</string><string name="icon_bell">Κουδούνι</string><string name="icon_web">Web</string><string name="icon_home">Σπίτι</string>
+    <string name="button_color">Χρώμα κουμπιού</string><string name="github_repository">Αποθετήριο GitHub</string>
+</resources>

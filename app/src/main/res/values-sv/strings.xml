@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Konfigurera upp till 10 åtgärder. De visas i Android Auto som bilsäkra åtgärder.</string>
+    <string name="add_tap">Lägg till</string><string name="edit_tap">Redigera åtgärd</string><string name="delete_tap">Ta bort åtgärd?</string><string name="no_taps">Inga åtgärder ännu.</string>
+    <string name="test">Testa</string><string name="edit">Redigera</string><string name="delete">Ta bort</string><string name="cancel">Avbryt</string><string name="save">Spara</string>
+    <string name="method">Metod</string><string name="android_auto_icon">Android Auto-ikon</string><string name="name">Namn</string><string name="url">URL</string><string name="username">Användare</string><string name="password">Lösenord</string>
+    <string name="credentials_as_params">Skicka användare/lösenord som user/pass-variabler</string><string name="params_hint">Variabler, en VAR=VÄRDE per rad</string><string name="color_hint">Hexfärg, t.ex. #0B6EFD</string><string name="url_error">URL måste börja med http:// eller https://</string><string name="calling">Anropar %1$s</string>
+    <string name="icon_bolt">Blixt</string><string name="icon_garage">Garage</string><string name="icon_door">Dörr</string><string name="icon_lock">Lås</string><string name="icon_light">Ljus</string><string name="icon_bell">Klocka</string><string name="icon_web">Webb</string><string name="icon_home">Hem</string>
+    <string name="button_color">Knappfärg</string><string name="github_repository">GitHub-repo</string>
+</resources>

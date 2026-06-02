@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Налаштуйте до 10 дій. Вони відображаються в Android Auto як безпечні дії.</string>
+    <string name="add_tap">Додати дію</string><string name="edit_tap">Редагувати дію</string><string name="delete_tap">Видалити дію?</string><string name="no_taps">Дій ще немає.</string>
+    <string name="test">Тест</string><string name="edit">Редагувати</string><string name="delete">Видалити</string><string name="cancel">Скасувати</string><string name="save">Зберегти</string>
+    <string name="method">Метод</string><string name="android_auto_icon">Іконка Android Auto</string><string name="name">Назва</string><string name="url">URL</string><string name="username">Користувач</string><string name="password">Пароль</string>
+    <string name="credentials_as_params">Надсилати користувача/пароль як змінні user/pass</string><string name="params_hint">Змінні, одна VAR=ЗНАЧЕННЯ на рядок</string><string name="color_hint">Hex-колір, напр. #0B6EFD</string><string name="url_error">URL має починатися з http:// або https://</string><string name="calling">Виклик %1$s</string>
+    <string name="icon_bolt">Блискавка</string><string name="icon_garage">Гараж</string><string name="icon_door">Двері</string><string name="icon_lock">Замок</string><string name="icon_light">Світло</string><string name="icon_bell">Дзвінок</string><string name="icon_web">Веб</string><string name="icon_home">Дім</string>
+    <string name="button_color">Колір кнопки</string><string name="github_repository">Репозиторій GitHub</string>
+</resources>

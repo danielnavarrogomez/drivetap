@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Skonfiguruj do 10 akcji. Pojawią się w Android Auto jako bezpieczne akcje.</string>
+    <string name="add_tap">Dodaj akcję</string><string name="edit_tap">Edytuj akcję</string><string name="delete_tap">Usunąć akcję?</string><string name="no_taps">Brak akcji.</string>
+    <string name="test">Test</string><string name="edit">Edytuj</string><string name="delete">Usuń</string><string name="cancel">Anuluj</string><string name="save">Zapisz</string>
+    <string name="method">Metoda</string><string name="android_auto_icon">Ikona Android Auto</string><string name="name">Nazwa</string><string name="url">URL</string><string name="username">Użytkownik</string><string name="password">Hasło</string>
+    <string name="credentials_as_params">Wyślij użytkownika/hasło jako zmienne user/pass</string><string name="params_hint">Zmienne, jedna VAR=WARTOŚĆ na linię</string><string name="color_hint">Kolor hex, np. #0B6EFD</string><string name="url_error">URL musi zaczynać się od http:// lub https://</string><string name="calling">Wywoływanie %1$s</string>
+    <string name="icon_bolt">Błyskawica</string><string name="icon_garage">Garaż</string><string name="icon_door">Drzwi</string><string name="icon_lock">Zamek</string><string name="icon_light">Światło</string><string name="icon_bell">Dzwonek</string><string name="icon_web">Web</string><string name="icon_home">Dom</string>
+    <string name="button_color">Kolor przycisku</string><string name="github_repository">Repozytorium GitHub</string>
+</resources>

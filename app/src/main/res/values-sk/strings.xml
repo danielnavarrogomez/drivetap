@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Nakonfigurujte až 10 akcií. V Android Auto sa zobrazia ako bezpečné akcie.</string>
+    <string name="add_tap">Pridať akciu</string><string name="edit_tap">Upraviť akciu</string><string name="delete_tap">Odstrániť akciu?</string><string name="no_taps">Zatiaľ žiadne akcie.</string>
+    <string name="test">Test</string><string name="edit">Upraviť</string><string name="delete">Odstrániť</string><string name="cancel">Zrušiť</string><string name="save">Uložiť</string>
+    <string name="method">Metóda</string><string name="android_auto_icon">Ikona Android Auto</string><string name="name">Názov</string><string name="url">URL</string><string name="username">Používateľ</string><string name="password">Heslo</string>
+    <string name="credentials_as_params">Odoslať používateľa/heslo ako premenné user/pass</string><string name="params_hint">Premenné, jedna VAR=HODNOTA na riadok</string><string name="color_hint">Hex farba, napr. #0B6EFD</string><string name="url_error">URL musí začínať http:// alebo https://</string><string name="calling">Volá sa %1$s</string>
+    <string name="icon_bolt">Blesk</string><string name="icon_garage">Garáž</string><string name="icon_door">Dvere</string><string name="icon_lock">Zámok</string><string name="icon_light">Svetlo</string><string name="icon_bell">Zvonček</string><string name="icon_web">Web</string><string name="icon_home">Domov</string>
+    <string name="button_color">Farba tlačidla</string><string name="github_repository">Repozitár GitHub</string>
+</resources>

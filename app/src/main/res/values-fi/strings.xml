@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Määritä enintään 10 toimintoa. Ne näkyvät Android Autossa turvallisina toimintoina.</string>
+    <string name="add_tap">Lisää toiminto</string><string name="edit_tap">Muokkaa toimintoa</string><string name="delete_tap">Poistetaanko toiminto?</string><string name="no_taps">Ei toimintoja vielä.</string>
+    <string name="test">Testaa</string><string name="edit">Muokkaa</string><string name="delete">Poista</string><string name="cancel">Peruuta</string><string name="save">Tallenna</string>
+    <string name="method">Menetelmä</string><string name="android_auto_icon">Android Auto -kuvake</string><string name="name">Nimi</string><string name="url">URL</string><string name="username">Käyttäjä</string><string name="password">Salasana</string>
+    <string name="credentials_as_params">Lähetä käyttäjä/salasana user/pass-muuttujina</string><string name="params_hint">Muuttujat, yksi VAR=ARVO per rivi</string><string name="color_hint">Hex-väri, esim. #0B6EFD</string><string name="url_error">URL-osoitteen on alettava http:// tai https://</string><string name="calling">Kutsutaan %1$s</string>
+    <string name="icon_bolt">Salama</string><string name="icon_garage">Autotalli</string><string name="icon_door">Ovi</string><string name="icon_lock">Lukko</string><string name="icon_light">Valo</string><string name="icon_bell">Kello</string><string name="icon_web">Verkko</string><string name="icon_home">Koti</string>
+    <string name="button_color">Painikkeen väri</string><string name="github_repository">GitHub-repositorio</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Állítson be legfeljebb 10 műveletet. Ezek biztonságos autós műveletként jelennek meg Android Autóban.</string>
+    <string name="add_tap">Művelet hozzáadása</string><string name="edit_tap">Művelet szerkesztése</string><string name="delete_tap">Törli a műveletet?</string><string name="no_taps">Még nincs művelet.</string>
+    <string name="test">Teszt</string><string name="edit">Szerkesztés</string><string name="delete">Törlés</string><string name="cancel">Mégse</string><string name="save">Mentés</string>
+    <string name="method">Módszer</string><string name="android_auto_icon">Android Auto ikon</string><string name="name">Név</string><string name="url">URL</string><string name="username">Felhasználó</string><string name="password">Jelszó</string>
+    <string name="credentials_as_params">Felhasználó/jelszó küldése user/pass változóként</string><string name="params_hint">Változók, soronként egy VAR=ÉRTÉK</string><string name="color_hint">Hex szín, pl. #0B6EFD</string><string name="url_error">Az URL-nek http:// vagy https:// előtaggal kell kezdődnie</string><string name="calling">%1$s hívása</string>
+    <string name="icon_bolt">Villám</string><string name="icon_garage">Garázs</string><string name="icon_door">Ajtó</string><string name="icon_lock">Zár</string><string name="icon_light">Fény</string><string name="icon_bell">Csengő</string><string name="icon_web">Web</string><string name="icon_home">Otthon</string>
+    <string name="button_color">Gomb színe</string><string name="github_repository">GitHub-tárhely</string>
+</resources>

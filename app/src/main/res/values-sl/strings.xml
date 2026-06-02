@@ -1,0 +1,9 @@
+<resources>
+    <string name="subtitle">Nastavite do 10 dejanj. V Android Auto se prikažejo kot varna dejanja.</string>
+    <string name="add_tap">Dodaj dejanje</string><string name="edit_tap">Uredi dejanje</string><string name="delete_tap">Izbrisati dejanje?</string><string name="no_taps">Ni še dejanj.</string>
+    <string name="test">Preizkusi</string><string name="edit">Uredi</string><string name="delete">Izbriši</string><string name="cancel">Prekliči</string><string name="save">Shrani</string>
+    <string name="method">Metoda</string><string name="android_auto_icon">Ikona Android Auto</string><string name="name">Ime</string><string name="url">URL</string><string name="username">Uporabnik</string><string name="password">Geslo</string>
+    <string name="credentials_as_params">Pošlji uporabnika/geslo kot spremenljivki user/pass</string><string name="params_hint">Spremenljivke, ena VAR=VREDNOST na vrstico</string><string name="color_hint">Hex barva, npr. #0B6EFD</string><string name="url_error">URL se mora začeti s http:// ali https://</string><string name="calling">Klicanje %1$s</string>
+    <string name="icon_bolt">Strela</string><string name="icon_garage">Garaža</string><string name="icon_door">Vrata</string><string name="icon_lock">Ključavnica</string><string name="icon_light">Luč</string><string name="icon_bell">Zvonec</string><string name="icon_web">Splet</string><string name="icon_home">Dom</string>
+    <string name="button_color">Barva gumba</string><string name="github_repository">GitHub repozitorij</string>
+</resources>

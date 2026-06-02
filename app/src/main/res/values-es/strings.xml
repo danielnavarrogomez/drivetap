@@ -1,0 +1,33 @@
+<resources>
+    <string name="subtitle">Configura hasta 10 accesos. Aparecen en Android Auto como acciones seguras para el coche.</string>
+    <string name="add_tap">Añadir acceso</string>
+    <string name="edit_tap">Editar acceso</string>
+    <string name="delete_tap">¿Eliminar acceso?</string>
+    <string name="no_taps">Aún no hay accesos.</string>
+    <string name="test">Probar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="method">Método</string>
+    <string name="android_auto_icon">Icono de Android Auto</string>
+    <string name="name">Nombre</string>
+    <string name="url">URL</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="credentials_as_params">Enviar usuario/contraseña como variables user/pass</string>
+    <string name="params_hint">Variables, una VAR=VALOR por línea</string>
+    <string name="color_hint">Color hexadecimal, p. ej. #0B6EFD</string>
+    <string name="url_error">La URL debe empezar por http:// o https://</string>
+    <string name="calling">Llamando a %1$s</string>
+    <string name="icon_bolt">Rayo</string>
+    <string name="icon_garage">Garaje</string>
+    <string name="icon_door">Puerta</string>
+    <string name="icon_lock">Cerradura</string>
+    <string name="icon_light">Luz</string>
+    <string name="icon_bell">Timbre</string>
+    <string name="icon_web">Web</string>
+    <string name="icon_home">Casa</string>
+    <string name="button_color">Color del botón</string>
+    <string name="github_repository">Repositorio en GitHub</string>
+</resources>
