@@ -6,6 +6,8 @@ The phone app lets you configure up to 10 taps. Each tap can send a `GET` or `PO
 
 Repository: [github.com/danielnavarrogomez/drivetap](https://github.com/danielnavarrogomez/drivetap)
 
+Android application ID: `com.navarrofernandez.drivetap`
+
 ## Features
 
 - Configure up to 10 endpoint actions on the phone.
@@ -20,6 +22,8 @@ Repository: [github.com/danielnavarrogomez/drivetap](https://github.com/danielna
 ## Android Auto Notes
 
 DriveTap is implemented as an AndroidX Car App Library template app in the `IOT` category. Android Auto controls most of the in-car layout and visual styling, so the app uses compliant templates and generated action icons rather than custom in-car views.
+
+Real Android Auto head units usually do not show sideloaded AndroidX Car App Library apps. For testing in a physical car, install DriveTap through Google Play Internal App Sharing or an internal testing track.
 
 For local testing, use Google's Android Auto Desktop Head Unit:
 
@@ -47,6 +51,23 @@ Install on a connected phone:
 ```bash
 adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
+
+## Google Play Internal App Sharing
+
+Internal App Sharing accepts APKs and Android App Bundles, including debug builds. This is the quickest way to test DriveTap in a real Android Auto car before a full Play Store release.
+
+1. Build the debug APK:
+
+   ```bash
+   ./gradlew assembleDebug
+   ```
+
+2. Upload `app/build/outputs/apk/debug/app-debug.apk` to the [Internal App Sharing upload page](https://play.google.com/console/internal-app-sharing).
+3. Copy the generated sharing link.
+4. On the test phone, enable Internal App Sharing in the Google Play Store app by tapping the Play Store version seven times in Play Store settings, then turning on Internal App Sharing.
+5. Open the sharing link on the phone and install DriveTap from Google Play.
+
+For a production or closed/internal testing release, build and upload a signed Android App Bundle instead of the debug APK.
 
 ## Development Setup
 
